@@ -1,0 +1,52 @@
+{
+  "mods": [
+    {
+      "name": "ExtendedDrawers-2.1.1+mc.1.20.1.jar",
+      "downloadURL": "https://bootstrap.breadcorp.fr/mods/ExtendedDrawers-2.1.1+mc.1.20.1.jar",
+      "sha1": "3bd92feec248b44394d89cea91f1b421e9d4c186",
+      "size": 2559736
+    },
+    {
+      "name": "fabric-api-0.92.2+1.20.1.jar",
+      "downloadURL": "https://bootstrap.breadcorp.fr/mods/fabric-api-0.92.2+1.20.1.jar",
+      "sha1": "625ee015ee426d9b677382a7bb661383d89c0807",
+      "size": 2107289
+    },
+    {
+      "name": "fancymenu_fabric_3.2.3_MC_1.20.1.jar",
+      "downloadURL": "https://bootstrap.breadcorp.fr/mods/fancymenu_fabric_3.2.3_MC_1.20.1.jar",
+      "sha1": "ac5c44bd127ce01040db73e234ae73fa7ed3fbfb",
+      "size": 2686178
+    },
+    {
+      "name": "IronChests-2.0.2.jar",
+      "downloadURL": "https://bootstrap.breadcorp.fr/mods/IronChests-2.0.2.jar",
+      "sha1": "8fad1ead5112596ebe235e849f81cbf13c1ff77d",
+      "size": 583474
+    },
+    {
+      "name": "jei-1.20.1-fabric-15.8.0.16.jar",
+      "downloadURL": "https://bootstrap.breadcorp.fr/mods/jei-1.20.1-fabric-15.8.0.16.jar",
+      "sha1": "1fb68d53db1999ff8d202aec0ad828492b3d738f",
+      "size": 1264774
+    },
+    {
+      "name": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "downloadURL": "https://bootstrap.breadcorp.fr/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "sha1": "38d3201d95a08bdeb12a8cd3687c6d0b8f5e7f3d",
+      "size": 892067
+    },
+    {
+      "name": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "downloadURL": "https://bootstrap.breadcorp.fr/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "sha1": "15eeff0c0fd8b4734492915c656077592b2d9e67",
+      "size": 39696
+    },
+    {
+      "name": "Patchouli-1.20.1-84-FABRIC.jar",
+      "downloadURL": "https://bootstrap.breadcorp.fr/mods/Patchouli-1.20.1-84-FABRIC.jar",
+      "sha1": "acbbeaae2f57052058a8444439f93d9a2d3efaf2",
+      "size": 856882
+    }
+  ]
+}
